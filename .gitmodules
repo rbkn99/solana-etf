@@ -1,0 +1,3 @@
+[submodule "external/raydium-clmm"]
+	path = external/raydium-clmm
+	url = git@github.com:raydium-io/raydium-clmm.git
